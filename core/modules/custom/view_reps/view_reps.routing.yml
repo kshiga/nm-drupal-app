@@ -1,0 +1,7 @@
+view_reps.form:
+  path: '/view_reps'
+  defaults:
+    _form: '\Drupal\view_reps\Form\LookupForm'
+    _title: 'View Reps'
+  requirements:
+    _permission: 'access content'

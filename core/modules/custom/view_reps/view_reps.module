@@ -1,0 +1,8 @@
+<?php
+function view_reps_theme($existing, $type, $theme, $path) {
+  return [
+    'view_reps' => [
+      'variables' => ['reps' => []],
+    ],
+  ];
+}

@@ -1,0 +1,6 @@
+name: 'View Reps'
+type: module
+description: 'Allows users to see a list of representatives based on a zip code'
+package: Custom
+project: 'drupal'
+core_version_requirement: ^8 || ^9
